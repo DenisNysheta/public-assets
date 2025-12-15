@@ -30,6 +30,7 @@ https://cdn.jsdelivr.net/gh/your-org/public-assets/project-name/email/headers/we
 
 Assets are organized **by project first**, then by usage or category.
 
+<pre>
 public-assets/
 ├── project-name/
 │   ├── email/
@@ -47,6 +48,7 @@ public-assets/
 │       └── illustrations/
 ├── another-project/
 │   └── ...
+</pre>
 
 ------------------------------------------------------------------------
 
